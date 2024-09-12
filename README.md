@@ -122,4 +122,4 @@ cd frontend
 npm run dev
 ```
 
-Visit http://localhost:3000 in your browser to access the application.
+Visit [http://localhost:3000/dashboard]http://localhost:3000/dashboard) in your browser to access the application.
