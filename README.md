@@ -72,7 +72,7 @@ python manage.py runserver
    npm run dev   
 ```
 
-The frontend will run at http://localhost:3000.
+The frontend will run at [http://localhost:3000](http://localhost:3000/dashboard).
 
 ### Libraries and Tools Used
 
@@ -122,4 +122,4 @@ cd frontend
 npm run dev
 ```
 
-Visit [http://localhost:3000/dashboard]http://localhost:3000/dashboard) in your browser to access the application.
+Visit [http://localhost:3000/dashboard](http://localhost:3000/dashboard) in your browser to access the application.
